@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-07T02:54:45.166808Z",
+  "generated_at": "2026-07-08T02:31:26.523176Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 180,
-      "duration_ms": 2980,
+      "item_count": 187,
+      "duration_ms": 4187,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 446,
+      "duration_ms": 378,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 26,
-      "duration_ms": 73,
+      "item_count": 36,
+      "duration_ms": 157,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 408,
+      "duration_ms": 435,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 537,
+      "duration_ms": 402,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 386,
-      "duration_ms": 15949,
+      "item_count": 390,
+      "duration_ms": 15028,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1534,
+      "duration_ms": 632,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 2962,
-      "duration_ms": 1562,
+      "duration_ms": 1824,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 80,
-      "duration_ms": 381,
+      "item_count": 67,
+      "duration_ms": 570,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 499,
+      "duration_ms": 423,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1525,
+      "duration_ms": 1208,
       "error": null
     },
     {
@@ -94,16 +94,16 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1750353,
+      "duration_ms": 1329072,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 1039,
-      "error": "'ascii' codec can't decode byte 0xc2 in position 76534: ordinal not in range(128)"
+      "ok": true,
+      "item_count": 123,
+      "duration_ms": 1433,
+      "error": null
     },
     {
       "site_id": "opmlrss",
@@ -111,7 +111,7 @@
       "ok": false,
       "partial_failures": 11,
       "item_count": 0,
-      "duration_ms": 5045,
+      "duration_ms": 4917,
       "error": "11 feeds failed",
       "feed_count": 11,
       "effective_feed_count": 11,
@@ -121,15 +121,14 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 12,
+  "successful_sites": 13,
   "failed_sites": [
-    "newsnow",
     "opmlrss"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4862,
-  "items_before_topic_filter": 3460,
-  "items_in_24h": 328,
+  "fetched_raw_items": 4993,
+  "items_before_topic_filter": 3533,
+  "items_in_24h": 384,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -137,46 +136,31 @@
     "effective_feed_total": 11,
     "ok_feeds": 0,
     "failed_feeds": [
-      "https://rsshub.app/twitter/user/berryxia",
-      "https://rsshub.app/twitter/user/op7418",
+      "https://rsshub.app/twitter/user/Jakubantalik",
       "https://rsshub.app/twitter/user/mattsilx",
-      "https://rsshub.app/twitter/user/reactivve_",
       "https://rsshub.app/twitter/user/designgurra",
-      "https://rsshub.app/twitter/user/raunofreiberg",
+      "https://rsshub.app/twitter/user/reactivve_",
+      "https://rsshub.app/twitter/user/op7418",
+      "https://rsshub.app/twitter/user/Gavmn",
+      "https://rsshub.app/twitter/user/ryolu",
       "https://rsshub.app/twitter/user/zielinskiwoj",
       "https://rsshub.app/twitter/user/eduardbodak",
-      "https://rsshub.app/twitter/user/Gavmn",
-      "https://rsshub.app/twitter/user/Jakubantalik",
-      "https://rsshub.app/twitter/user/ryolu"
+      "https://rsshub.app/twitter/user/raunofreiberg",
+      "https://rsshub.app/twitter/user/berryxia"
     ],
     "zero_item_feeds": [],
     "skipped_feeds": [],
     "replaced_feeds": [],
     "feeds": [
       {
-        "site_id": "opmlrss:dba49cc30e",
+        "site_id": "opmlrss:acfac1bd9c",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.app",
-        "feed_url": "https://rsshub.app/twitter/user/berryxia",
-        "effective_feed_url": "https://rsshub.app/twitter/user/berryxia",
+        "feed_url": "https://rsshub.app/twitter/user/Jakubantalik",
+        "effective_feed_url": "https://rsshub.app/twitter/user/Jakubantalik",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 385,
-        "error": "404 Client Error: Not Found for url: https://google.com/404",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:5346417a31",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.app",
-        "feed_url": "https://rsshub.app/twitter/user/op7418",
-        "effective_feed_url": "https://rsshub.app/twitter/user/op7418",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 410,
+        "duration_ms": 395,
         "error": "404 Client Error: Not Found for url: https://google.com/404",
         "skipped": false,
         "skip_reason": null,
@@ -191,22 +175,7 @@
         "effective_feed_url": "https://rsshub.app/twitter/user/mattsilx",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 420,
-        "error": "404 Client Error: Not Found for url: https://google.com/404",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:d5af12ac1e",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.app",
-        "feed_url": "https://rsshub.app/twitter/user/reactivve_",
-        "effective_feed_url": "https://rsshub.app/twitter/user/reactivve_",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 444,
+        "duration_ms": 430,
         "error": "404 Client Error: Not Found for url: https://google.com/404",
         "skipped": false,
         "skip_reason": null,
@@ -221,7 +190,7 @@
         "effective_feed_url": "https://rsshub.app/twitter/user/designgurra",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 454,
+        "duration_ms": 433,
         "error": "404 Client Error: Not Found for url: https://google.com/404",
         "skipped": false,
         "skip_reason": null,
@@ -229,14 +198,14 @@
         "bridge_type": null
       },
       {
-        "site_id": "opmlrss:21c6ac922c",
+        "site_id": "opmlrss:d5af12ac1e",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.app",
-        "feed_url": "https://rsshub.app/twitter/user/raunofreiberg",
-        "effective_feed_url": "https://rsshub.app/twitter/user/raunofreiberg",
+        "feed_url": "https://rsshub.app/twitter/user/reactivve_",
+        "effective_feed_url": "https://rsshub.app/twitter/user/reactivve_",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 473,
+        "duration_ms": 441,
         "error": "404 Client Error: Not Found for url: https://google.com/404",
         "skipped": false,
         "skip_reason": null,
@@ -244,29 +213,14 @@
         "bridge_type": null
       },
       {
-        "site_id": "opmlrss:694708d733",
+        "site_id": "opmlrss:5346417a31",
         "site_name": "OPML RSS",
         "feed_title": "rsshub.app",
-        "feed_url": "https://rsshub.app/twitter/user/zielinskiwoj",
-        "effective_feed_url": "https://rsshub.app/twitter/user/zielinskiwoj",
+        "feed_url": "https://rsshub.app/twitter/user/op7418",
+        "effective_feed_url": "https://rsshub.app/twitter/user/op7418",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 483,
-        "error": "404 Client Error: Not Found for url: https://google.com/404",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:b8b2240f4a",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.app",
-        "feed_url": "https://rsshub.app/twitter/user/eduardbodak",
-        "effective_feed_url": "https://rsshub.app/twitter/user/eduardbodak",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 487,
+        "duration_ms": 438,
         "error": "404 Client Error: Not Found for url: https://google.com/404",
         "skipped": false,
         "skip_reason": null,
@@ -281,22 +235,7 @@
         "effective_feed_url": "https://rsshub.app/twitter/user/Gavmn",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 494,
-        "error": "404 Client Error: Not Found for url: https://google.com/404",
-        "skipped": false,
-        "skip_reason": null,
-        "replaced": false,
-        "bridge_type": null
-      },
-      {
-        "site_id": "opmlrss:acfac1bd9c",
-        "site_name": "OPML RSS",
-        "feed_title": "rsshub.app",
-        "feed_url": "https://rsshub.app/twitter/user/Jakubantalik",
-        "effective_feed_url": "https://rsshub.app/twitter/user/Jakubantalik",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 493,
+        "duration_ms": 453,
         "error": "404 Client Error: Not Found for url: https://google.com/404",
         "skipped": false,
         "skip_reason": null,
@@ -311,7 +250,67 @@
         "effective_feed_url": "https://rsshub.app/twitter/user/ryolu",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 502,
+        "duration_ms": 468,
+        "error": "404 Client Error: Not Found for url: https://google.com/404",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:694708d733",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.app",
+        "feed_url": "https://rsshub.app/twitter/user/zielinskiwoj",
+        "effective_feed_url": "https://rsshub.app/twitter/user/zielinskiwoj",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 464,
+        "error": "404 Client Error: Not Found for url: https://google.com/404",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:b8b2240f4a",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.app",
+        "feed_url": "https://rsshub.app/twitter/user/eduardbodak",
+        "effective_feed_url": "https://rsshub.app/twitter/user/eduardbodak",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 467,
+        "error": "404 Client Error: Not Found for url: https://google.com/404",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:21c6ac922c",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.app",
+        "feed_url": "https://rsshub.app/twitter/user/raunofreiberg",
+        "effective_feed_url": "https://rsshub.app/twitter/user/raunofreiberg",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 462,
+        "error": "404 Client Error: Not Found for url: https://google.com/404",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:dba49cc30e",
+        "site_name": "OPML RSS",
+        "feed_title": "rsshub.app",
+        "feed_url": "https://rsshub.app/twitter/user/berryxia",
+        "effective_feed_url": "https://rsshub.app/twitter/user/berryxia",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 466,
         "error": "404 Client Error: Not Found for url: https://google.com/404",
         "skipped": false,
         "skip_reason": null,
@@ -340,6 +339,6 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-07-07"
+    "generated_date_utc": "2026-07-08"
   }
 }
